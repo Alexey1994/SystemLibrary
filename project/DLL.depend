@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1468172583 source:c:\users\lex\desktop\Программирование\dll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1468223356 source:c:\users\lex\desktop\Программирование\dll\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SystemLibrary.h"
+
+1468174306 c:\users\lex\desktop\Программирование\dll\src\systemlibrary.h
+
+1468223490 source:c:\users\lex\desktop\Программирование\dll\src\systemlibrary.c
+	"SystemLibrary.h"
+	"extends.h"
+	<windows.h>
+
+1467135919 c:\users\lex\desktop\Программирование\dll\src\extends.h
+	<stdlib.h>
+
+1468229092 source:d:\Программирование\dll\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SystemLibrary.h"
+
+1468229153 d:\Программирование\dll\src\systemlibrary.h
+
+1468229045 source:d:\Программирование\dll\src\systemlibrary.c
+	"SystemLibrary.h"
+	"extends.h"
+	<windows.h>
+
+1467135920 d:\Программирование\dll\src\extends.h
+	<stdlib.h>
+
